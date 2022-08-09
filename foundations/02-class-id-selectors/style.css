@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+
+.odd {
+    background-color: rgb(255, 169, 169);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#special {
+    font-size: 36px;
+    color: #00f;
+}
+
+p.cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: 700;
+}
